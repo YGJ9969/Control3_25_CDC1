@@ -12,7 +12,7 @@ import java.util.List;
 public class InmobiliariaTest {
 
 	private Inmobiliaria inmobiliaria;
-
+  
 	@BeforeEach
 	public void setUp() {
 		// Antes de cada test, creamos una nueva instancia de Inmobiliaria
